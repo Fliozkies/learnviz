@@ -7,8 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "deploy": "npm run build && touch out/.nojekyll && gh-pages -d out"
-  },
+"deploy": "npm run build && touch out/.nojekyll && gh-pages -d out -t true"  },
   "dependencies": {
     "katex": "^0.16.44",
     "lucide-react": "^1.7.0",
