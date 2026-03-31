@@ -7,7 +7,6 @@ const nextConfig: NextConfig = {
     unoptimized: true,
   },
   basePath: '/learnviz',
-  assetPrefix: '/learnviz',
 };
 
 
