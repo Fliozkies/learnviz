@@ -8,6 +8,7 @@ const nextConfig: NextConfig = {
   },
   trailingSlash: true,
   basePath: '/learnviz',
+  assetPrefix: '/learnviz',
 };
 
 
