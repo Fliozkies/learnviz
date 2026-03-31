@@ -8,7 +8,7 @@ const nextConfig: NextConfig = {
   },
   trailingSlash: true,
   basePath: '/learnviz',
-  assetPrefix: 'https://fliozkies.github.io/learnviz',
+  assetPrefix: '/learnviz',
 };
 
 
